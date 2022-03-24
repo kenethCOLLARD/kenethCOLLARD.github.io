@@ -1,0 +1,61 @@
+.grandcarré{
+    width: 220px;
+    height: 220px;
+    background-color:rgba(8, 133, 8, 0.966); 
+    
+}
+.vert{
+    border: solid 2px black;
+    border-radius: 100px;
+    background-color: rgba(8, 133, 8, 0.966);
+    }
+    .vert1
+    {
+       position: absolute;
+       top: 20px;
+       left: 20px;
+        width: 40px;
+        height: 40px;
+        background-color:rgba(8, 133, 8, 0.966);
+    
+    }
+    .vert2
+    {
+       position: absolute;
+       top: 90px;
+       left: 20px;
+        width: 40px;
+        height: 40px;
+        background-color:rgba(8, 133, 8, 0.966);
+    }
+    .vert3
+    {
+       position: absolute;
+       top: 20px;
+       left: 100px;
+        width: 40px;
+        height: 40px;
+        background-color:rgba(8, 133, 8, 0.966);
+    }
+    .vert4
+    {
+    position: absolute;
+    top: 90px;
+    left: 100px;
+        width: 40px;
+        height: 40px;
+        background-color:rgba(8, 133, 8, 0.966);
+    }
+    .carrévert
+    {
+        position: absolute;
+        top: 38px;
+        left: 33px;
+        width: 165px;
+        height: 156px;
+        border: solid 2px black;
+        background-color: #fff;
+
+    }
+   
+   
